@@ -1,0 +1,17 @@
+.pi{
+    background-color:pink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+#second{
+    color:blue;
+    font-size: 36px;
+
+}
+.pii{
+    font-size: 24px;
+}
+#fourth{
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
